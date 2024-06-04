@@ -1,0 +1,39 @@
+h1{
+    background-color: green;
+    color: white;
+    font-family: 'Times New Roman', 'Helvetica', 'sans-serif';
+    font-size: 40px;
+    text-align: center;
+    padding: 5px;
+    border: 10px double darkgreen;
+}
+
+h3{
+    font-size: 25px;
+    color: darkblue;
+    font-family:  'Helvetica', 'Times New Roman', 'sans-serif';
+    text-align: center;
+    background-color: cadetblue;
+    padding: 5px;
+}
+
+.text{
+    font-family:  'sans-serif', 'Helvetica', 'Times New Roman';
+    font-size: 15px;
+}
+
+.link{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    display: block;
+    padding: 10px;
+    border: 3px solid rgb(238, 172, 119);
+    margin: 15px;
+}
+
+img{
+    border: 5px solid black;
+    margin: 0px auto;
+    display: block;
+}
